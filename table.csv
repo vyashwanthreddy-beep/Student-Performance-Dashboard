@@ -1,0 +1,11 @@
+StudentID,Name,Gender,Age,Class,Math,Science,English,Attendance (%),Homework Completion (%),Behavior Score,Term
+1001,Alice Brown,F,15,10A,88,90,85,96,92,9,Term 1
+1002,Ben Carter,M,16,10A,72,68,75,89,80,7,Term 1
+1003,Carla Davis,F,15,10B,95,92,94,99,98,10,Term 1
+1004,David Ellis,M,16,10B,65,72,60,85,70,6,Term 1
+1005,Emily Ford,F,15,10A,80,85,88,94,90,8,Term 1
+1006,Frank Green,M,16,10B,78,74,70,90,85,7,Term 1
+1007,Grace Hill,F,15,10C,91,89,93,98,97,10,Term 1
+1008,Henry Jones,M,16,10C,69,65,72,87,78,6,Term 1
+1009,Isabel King,F,15,10C,85,83,80,95,91,9,Term 1
+1010,Jack Lewis,M,16,10B,74,70,76,88,82,7,Term 1
