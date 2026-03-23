@@ -1,11 +1,9 @@
-StudentID,Name,Gender,Age,Class,Math,Science,English,Attendance (%),Homework Completion (%),Behavior Score,Term
-1001,Alice Brown,F,15,10A,88,90,85,96,92,9,Term 1
-1002,Ben Carter,M,16,10A,72,68,75,89,80,7,Term 1
-1003,Carla Davis,F,15,10B,95,92,94,99,98,10,Term 1
-1004,David Ellis,M,16,10B,65,72,60,85,70,6,Term 1
-1005,Emily Ford,F,15,10A,80,85,88,94,90,8,Term 1
-1006,Frank Green,M,16,10B,78,74,70,90,85,7,Term 1
-1007,Grace Hill,F,15,10C,91,89,93,98,97,10,Term 1
-1008,Henry Jones,M,16,10C,69,65,72,87,78,6,Term 1
-1009,Isabel King,F,15,10C,85,83,80,95,91,9,Term 1
-1010,Jack Lewis,M,16,10B,74,70,76,88,82,7,Term 1
+Student_ID,Name,Gender,Age,Class,Math_Score,Science_Score,English_Score,Attendance_Percentage,Study_Hours_Per_Week,Parental_Education,Pass_Status
+101,Aarav,Male,15,10,78,82,74,92,10,Graduate,Pass
+102,Diya,Female,14,9,88,91,85,95,12,Postgraduate,Pass
+103,Rahul,Male,15,10,56,60,58,80,6,High School,Pass
+104,Ananya,Female,14,9,92,89,94,97,14,Graduate,Pass
+105,Vikram,Male,16,11,45,50,48,70,5,High School,Fail
+106,Sneha,Female,15,10,76,72,78,88,9,Graduate,Pass
+107,Karan,Male,14,9,65,68,70,85,7,Undergraduate,Pass
+108,Meera,Female,16,11,90,93,89,96,13,Postgraduate,Pass
