@@ -20,7 +20,7 @@ This dashboard helps educators and analysts identify trends, patterns, and key f
 ##  Files Included
 
 * `Student Performance Dashboard.pbix` – Power BI dashboard file
-* `student_performance.csv` – Dataset used for analysis
+* `table.csv` – Dataset used for analysis
 * `README.md` – Project documentation
 
 ---
